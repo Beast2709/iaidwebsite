@@ -1,0 +1,76 @@
+body{
+	background-image: url(../Images/sc.jfif);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center center;
+  	background-attachment: fixed;
+}
+
+.simple-form{
+	text-align:center;
+	margin: 1px 100px;
+}
+
+#Registration{
+	width: 100%;
+	background-color: #051019;
+	opacity: 0.8;
+	padding: 50px 0px;
+}
+
+#button{
+	width: 250px;
+	padding: 10px;
+	border-radius: 5px;
+	outline: 0px;
+}
+
+#ph{
+	width: 200px;
+	padding: 10px;
+	border-radius: 5px;
+	outline: 0px;
+}
+
+#rd{
+
+}
+
+#but{
+	color: white;
+	font-size: 18px;
+}
+
+#butt{
+	width: 250px;
+	padding: 10px;
+	border-radius: 10px;
+	outline: 100px;
+	background-color: #0c6996;
+	border: 2px solid #01010c;
+	color: aliceblue;
+	font-size: 18px;
+}
+
+#personnel_info{
+	display: none;
+}
+
+#pass{
+	width: 250px;
+	padding: 10px;
+	border-radius: 5px;
+	outline: 0px;
+}
+
+#pass1{
+	width: 250px;
+	padding: 10px;
+	border-radius: 5px;
+	outline: 0px;
+}
+
+font{
+	font-family: sans-serif;
+	color:#bc8622;
+}
